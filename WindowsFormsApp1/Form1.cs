@@ -17,5 +17,6 @@ namespace WindowsFormsApp1
             InitializeComponent();
         }
         //label1 added
+        //label2 added
     }
 }
